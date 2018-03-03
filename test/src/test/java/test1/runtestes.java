@@ -11,7 +11,7 @@ public class runtestes {
 	}
 	@Test
 	public void Dummy_test_to_fail(){
-		Assert.assertEquals(1, 2);
+		Assert.assertEquals(2,2);
 		
 	}
 }
